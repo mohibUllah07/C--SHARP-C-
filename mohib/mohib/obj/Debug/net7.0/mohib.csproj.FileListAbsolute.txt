@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.AssemblyInfo.cs
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\mohib\mohib\bin\Debug\net7.0\mohib.exe
+C:\Users\asp\source\repos\mohib\mohib\bin\Debug\net7.0\mohib.deps.json
+C:\Users\asp\source\repos\mohib\mohib\bin\Debug\net7.0\mohib.runtimeconfig.json
+C:\Users\asp\source\repos\mohib\mohib\bin\Debug\net7.0\mohib.dll
+C:\Users\asp\source\repos\mohib\mohib\bin\Debug\net7.0\mohib.pdb
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.dll
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\refint\mohib.dll
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.pdb
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\mohib.genruntimeconfig.cache
+C:\Users\asp\source\repos\mohib\mohib\obj\Debug\net7.0\ref\mohib.dll
